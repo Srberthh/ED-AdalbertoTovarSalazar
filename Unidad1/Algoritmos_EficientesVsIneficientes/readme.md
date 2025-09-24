@@ -1,1 +1,2 @@
-archivo
+- La tabla viene incluida dentro del programa ya que con cada dato diferente puede variar las estadisticas.
+- Solo se deben descargar los archivos .py y ejecutarlos.
